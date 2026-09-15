@@ -1,0 +1,2 @@
+# abarrotes-mana-
+inventario
